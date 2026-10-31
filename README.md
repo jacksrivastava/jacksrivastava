@@ -4,56 +4,56 @@
 
 ### Learners are the Leaders.
 
-`Applied AI & GenAI` &nbsp;·&nbsp; `SDET` &nbsp;·&nbsp; `Web Developer` &nbsp;·&nbsp; `Data Analyst`
+**Applied AI & GenAI · Quality Engineering · Product Development**
 
-*Exploring generative intelligence. Engineering quality. Creating impact.*
+*Building intelligent experiences with an engineer’s eye for reliability.*
 
-[GitHub](https://github.com/jacksrivastava)
+[Explore my work](https://github.com/jacksrivastava)
 
 </div>
 
 ---
 
-## About
+## Building at the intersection of AI and quality
 
-I am Jay Kumar Srivastava—a quality-minded builder exploring how AI and generative AI can turn useful ideas into thoughtful products. I combine an interest in intelligent applications and data-informed thinking with the engineering discipline needed to make software reliable, testable, and maintainable.
+I explore how generative AI can turn a clear product idea into a useful, dependable experience. My work blends AI-enabled product development with quality engineering—bringing thoughtful structure, testing, and maintainability to every build.
 
 > **Learn continuously. Build meaningfully. Improve relentlessly.**
 
-## Focus areas
+## What I bring
 
-| Applied AI & GenAI | Product development | Quality engineering |
+| Applied AI & GenAI | Product engineering | Quality engineering |
 | --- | --- | --- |
-| Generative-AI exploration and intelligent product ideas | Web applications and user-focused experiences | Test automation and maintainable test design |
-| Problem framing, experimentation, and data-informed thinking | Front-end and full-stack fundamentals | Selenium, Java, BDD, and Page Object Model |
+| Generative-AI product exploration | Next.js, React, TypeScript | Test automation and maintainable test design |
+| AI-provider integrations and secure key handling | Full-stack web application foundations | Selenium, Java, BDD, Page Object Model |
+| Data-informed problem framing and experimentation | User-focused product experiences | Unit, integration, and end-to-end testing |
 
 ## Selected work
 
-### [AI Fashion Twin](https://github.com/jacksrivastava/AI-Fashion-Twin)
+### [AI Fashion Twin](https://github.com/jacksrivastava/AI-Fashion-Twin)  
+**BYOK generative-AI fashion SaaS**
 
-An AI-focused exploration at the intersection of fashion and digital experiences.
+Create an AI avatar, provide a shopping link, and preview outfits. Built with **Next.js 15**, **React**, and **TypeScript**; it uses Supabase for authentication, database, and storage. Provider keys are encrypted server-side and the generation workflow is covered by validation and automated testing with Vitest, Testing Library, and Playwright.
 
-### [kisaan.ai](https://github.com/jacksrivastava/kisaan.ai)
+### [Reddit Video Generator](https://github.com/jacksrivastava/RedditVideoGenerator)  
+**Automated content-generation experiment**
 
-An AI-focused project in the portfolio, reflecting an interest in technology with practical reach.
+An educational Python project that queries AskReddit posts and comments to generate an MP4 video automatically—an early exploration of repeatable content workflows.
 
-### [Reddit Video Generator](https://github.com/jacksrivastava/RedditVideoGenerator)
+### [Automation Testing Framework — Proof of Concept](https://github.com/jacksrivastava/proof-of-concept-for-testing-framework)  
+**Reliable UI-test architecture**
 
-An experiment in automated content-generation workflows.
+A modular Java and Selenium framework using Cucumber, JUnit, Maven, and ExtentReports. It applies the Page Object Model, configurable local or remote execution, and reporting with screenshots to keep end-to-end tests reusable and clear.
 
-### [Automation Testing Framework — Proof of Concept](https://github.com/jacksrivastava/proof-of-concept-for-testing-framework)
+## Principles
 
-An automation-testing proof of concept built with **Java** and **Selenium WebDriver**. It uses **Cucumber** for BDD, **JUnit** for execution, **Maven** for dependency/build management, and **ExtentReports** for reporting. The framework follows a modular structure and Page Object Model, with support for configurable local or remote execution.
-
-## How I work
-
-- **AI should be useful.** I am interested in generative AI that makes products more capable, accessible, or creative.
-- **Quality is a product feature.** I value readable, reusable systems that are easier to test and maintain.
-- **Learning is part of delivery.** I keep exploring new tools, patterns, and ideas—and turn the useful ones into practical work.
+- **AI should earn trust.** I care about useful AI experiences, sound product decisions, and safe handling of provider credentials.
+- **Quality is a product feature.** Readable, testable systems make better products—and make them easier to evolve.
+- **Learning compounds.** I keep turning new tools, patterns, and ideas into practical work.
 
 ## Connect
 
-The best place to follow my work is [@jacksrivastava](https://github.com/jacksrivastava). Feel free to explore the repositories above or start a conversation through GitHub.
+Follow [@jacksrivastava](https://github.com/jacksrivastava) to explore the work and continue the conversation.
 
 ---
 
@@ -62,4 +62,3 @@ The best place to follow my work is [@jacksrivastava](https://github.com/jacksri
 *Build with curiosity. Engineer with purpose.*
 
 </div>
-
