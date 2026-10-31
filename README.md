@@ -5,7 +5,7 @@
 ### Learners are the Leaders.
 
 <a href="https://github.com/jacksrivastava">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&lines=Applied+AI+%26+GenAI+%C2%B7+Product+Engineering+%C2%B7+Quality+by+Design;Building+intelligent+products+with+clarity%2C+craft%2C+and+discipline." alt="Applied AI and GenAI · Product Engineering · Quality by Design" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1100&color=58A6FF&center=true&vCenter=true&width=820&lines=Applied+AI+%26+GenAI+%C2%B7+Product+Engineering+%C2%B7+Quality+by+Design;Building+intelligent+products+with+clarity%2C+craft%2C+and+discipline." alt="Applied AI and GenAI · Product Engineering · Quality by Design" />
 </a>
 
 <p>
